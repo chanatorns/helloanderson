@@ -14,3 +14,4 @@ changeeee
 
 edit test check out
 edit test new branch
+edit test conflict this is new-branch
