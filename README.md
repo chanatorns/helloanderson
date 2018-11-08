@@ -14,4 +14,8 @@ changeeee
 
 edit test check out
 edit test new branch
+<<<<<<< HEAD
 edit test conflict this is master
+=======
+edit test conflict this is new-branch
+>>>>>>> test-new-branch
